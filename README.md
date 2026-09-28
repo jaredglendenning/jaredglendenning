@@ -14,7 +14,6 @@ I'm focused on learning by building — taking what I learn in Python, statistic
 - 🔬 Machine learning projects involving real-world datasets
 - 🧠 Exploring machine learning applications in Alzheimer's research
 - 🐍 Building my Python and data science skills
-- ⚙️ Developing projects with C++
 - 🤖 Exploring AI-assisted software development
 - 🐧 Building my development environment around Linux
 
@@ -50,7 +49,6 @@ I am currently working on:
 - Data Science
 - Alzheimer's ML Research
 - Python Projects
-- C++ Development
 - Linux & AI Workflows
 
 ---
